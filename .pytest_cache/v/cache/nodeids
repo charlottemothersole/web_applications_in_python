@@ -1,0 +1,20 @@
+[
+  "tests/test_app.py::test_get_add_names",
+  "tests/test_app.py::test_get_emoji",
+  "tests/test_app.py::test_post_count_vowels_eee",
+  "tests/test_app.py::test_post_count_vowels_eunoia",
+  "tests/test_app.py::test_post_count_vowels_mercurial",
+  "tests/test_app.py::test_post_sort_names",
+  "tests/test_book.py::test_book_constructs",
+  "tests/test_book.py::test_books_are_equal",
+  "tests/test_book.py::test_books_format_nicely",
+  "tests/test_book_repository.py::test_create_record",
+  "tests/test_book_repository.py::test_delete_record",
+  "tests/test_book_repository.py::test_get_all_records",
+  "tests/test_book_repository.py::test_get_single_record",
+  "tests/test_database_connection.py::test_database_connection",
+  "tests/test_example_routes.py::test_create_book",
+  "tests/test_example_routes.py::test_delete_book",
+  "tests/test_example_routes.py::test_get_book",
+  "tests/test_example_routes.py::test_get_books"
+]
